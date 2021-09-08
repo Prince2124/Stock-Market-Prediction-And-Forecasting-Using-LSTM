@@ -23,8 +23,11 @@ The output gate: Output Gate at LSTM selects the information to be shown as outp
 
 ### 5. Prediction
 The values in train predict and test predict. I got,i am just plotting it:
+
 A. Green indicates the Predicted Data
+
 B. Blue indicates the Complete Data
+
 C. Orange indicates the Train Data
 
 ![Prediction](https://user-images.githubusercontent.com/59818604/132559563-c0747f26-7bec-497f-a2ea-83e7c8c93ef9.png)
